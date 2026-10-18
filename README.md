@@ -13,7 +13,7 @@
 ### 🌟 Plataforma Editorial, Sistema de Noticias y Hemeroteca Interactiva de Alta Seguridad
 **Diseñado, construido y mantenido por [LoNet Solutions](https://lonetsolutions.com)**
 
-[🚀 Probar Panel Demo Interactivo (1-Click Login)](https://lonetsolutions.com/demo/) • [📰 Ver Hemeroteca en Vivo](https://juanjosenietocartagena.edu.co/noticias.html) • [🏢 Visitar LoNet Solutions](https://lonetsolutions.com)
+[🚀 Panel Demo Interactivo](https://lonetsolutions.com/demo/) • [📰 Hemeroteca Demo](https://lonetsolutions.com/demo/noticias.html) • [🏫 Portal Escolar Demo](https://lonetsolutions.com/demo/portal.html) • [🌐 Producción Real](https://juanjosenietocartagena.edu.co/noticias.html) • [🏢 Visitar LoNet Solutions](https://lonetsolutions.com)
 
 </div>
 
@@ -122,15 +122,15 @@ flowchart TD
 
 Puedes experimentar la velocidad, el diseño responsive y todas las funcionalidades del sistema directamente en los entornos disponibles:
 
-### 1. 🚀 Panel Administrativo Demo Interactivo (1-Click Login Sandbox)
-Para clientes, evaluadores y directivos que desean ingresar al panel editorial y probar sus herramientas sin necesidad de credenciales previas:
-- **Enlace Directo:** [https://lonetsolutions.com/demo/](https://lonetsolutions.com/demo/)
-- **Acceso Inmediato en 1 Clic con 4 Roles Preconfigurados:**
-  - 👑 **Super Admin (`superadmin@nieto.edu.co`):** Control maestro, gestión total de noticias y usuarios, generador directo de contraseñas de docentes, interruptor de Modo Pánico y auditoría histórica completa.
-  - 🛡️ **Administrador (`rectoria@nieto.edu.co`):** Gestión editorial, aprobación de publicaciones de estudiantes, gestión de autores y auditoría institucional.
-  - ✍️ **Docente Autor (`docente@nieto.edu.co`):** Redacción, edición y publicación directa de comunicados con galerías fotográficas múltiples y videos de YouTube.
-  - 🎓 **Estudiante Autor (`estudiante@nieto.edu.co`):** Redacción colaborativa escolar en estado de borrador para revisión pedagógica previa.
-- **Entorno Sandbox Aislado y Ultrarrápido:** Funciona en el almacenamiento local del navegador (`localStorage`), permitiendo crear, editar, publicar y borrar artículos, activar el Modo Pánico y auditar eventos en tiempo real sin riesgo para los datos de producción. Incluye botón para **Restablecer Datos Demo** en cualquier momento.
+### 1. 🚀 Suite Demo Sandbox en Vivo (LoNet Solutions)
+- **Panel Administrativo Editorial:** [https://lonetsolutions.com/demo/](https://lonetsolutions.com/demo/)
+  - Acceso inmediato en 1 clic con 4 roles preconfigurados (**Super Admin**, **Administrador**, **Docente Autor**, **Estudiante Autor**).
+  - Simulación completa de creación, edición, publicación, Modo Pánico y auditoría.
+- **Hemeroteca Institucional Demo:** [https://lonetsolutions.com/demo/noticias.html](https://lonetsolutions.com/demo/noticias.html)
+  - Visualización pública interactiva de las publicaciones creadas en el sandbox, buscador predictivo y galerías.
+- **Portal Web Escolar Demo:** [https://lonetsolutions.com/demo/portal.html](https://lonetsolutions.com/demo/portal.html)
+  - Réplica del portal institucional con cintillo breaking news, reproductor de himno y ventanilla PQRS.
+- **Aislamiento Total:** Funciona en `localStorage` con botón para **Restablecer Datos Demo** en cualquier instante.
 
 ### 2. 📰 Hemeroteca Pública Institucional en Producción Real
 - **Enlace Directo:** [https://juanjosenietocartagena.edu.co/noticias.html](https://juanjosenietocartagena.edu.co/noticias.html)
