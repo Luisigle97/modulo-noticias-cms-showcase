@@ -73,6 +73,12 @@ El sistema se encuentra **desplegado y operando exitosamente al 100%** como la p
 - **Inspección Sanitizada:** 0 comentarios en el DOM HTML para que nadie descubra nombres de modales o vistas internas.
 - **Login Centrado en `100dvh`:** Adaptación perfecta en teléfonos y tablets sin desbordamientos de pantalla.
 
+### 6. 🌙 Modo Oscuro / Noche (Dark Mode) Nativo
+- **Alternancia Dinámica con Persistencia:** Botones de alternancia instantánea en el login (`#btnLoginThemeToggle`), barra del panel (`#btnThemeToggle`) y hemeroteca pública (`#btnArchiveThemeToggle`).
+- **Prevención de Parpadeo (Zero FOUC):** Inyección de script en cabecera para renderizado inmediato en el tema correcto antes de pintar el DOM.
+- **Sincronización `localStorage`:** La elección de tema se mantiene guardada y consistente entre sesiones y páginas.
+- **Alto Contraste y Accesibilidad:** Paleta refinada (`#0B1120`, `#141E30`, `#1E293B`) que disminuye el cansancio ocular durante extensas sesiones de redacción.
+
 ---
 
 ## 🏛️ Arquitectura del Sistema
