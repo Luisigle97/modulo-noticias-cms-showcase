@@ -13,7 +13,7 @@
 ### 🌟 Plataforma Editorial, Sistema de Noticias y Hemeroteca Interactiva de Alta Seguridad
 **Diseñado, construido y mantenido por [LoNet Solutions](https://lonetsolutions.com)**
 
-[🚀 Ver Portal Público & Hemeroteca (Demo en Vivo)](https://juanjosenietocartagena.edu.co/noticias.html) • [🔐 Explorar Panel Administrativo (Demo en Vivo)](https://juanjosenietocartagena.edu.co/admin/) • [🏢 Visitar LoNet Solutions](https://lonetsolutions.com)
+[🚀 Probar Panel Demo Interactivo (1-Click Login)](https://lonetsolutions.com/demo/) • [📰 Ver Hemeroteca en Vivo](https://juanjosenietocartagena.edu.co/noticias.html) • [🏢 Visitar LoNet Solutions](https://lonetsolutions.com)
 
 </div>
 
@@ -120,12 +120,28 @@ flowchart TD
 
 ## 🚀 Cómo Probar el Demo en Vivo (*Live Demo*)
 
-Puedes experimentar la velocidad, diseño y funcionalidades del sistema directamente en los entornos en producción:
+Puedes experimentar la velocidad, el diseño responsive y todas las funcionalidades del sistema directamente en los entornos disponibles:
 
-1. **Visor de Hemeroteca Pública:**
-   Visita [https://juanjosenietocartagena.edu.co/noticias.html](https://juanjosenietocartagena.edu.co/noticias.html) para probar el buscador predictivo, los filtros por categoría y el lector de noticias con galería y video.
-2. **Acceso al Panel Editorial:**
-   Visita [https://juanjosenietocartagena.edu.co/admin/](https://juanjosenietocartagena.edu.co/admin/) para ver la interfaz de acceso protegida y centrada en móviles.
+### 1. 🚀 Panel Administrativo Demo Interactivo (1-Click Login Sandbox)
+Para clientes, evaluadores y directivos que desean ingresar al panel editorial y probar sus herramientas sin necesidad de credenciales previas:
+- **Enlace Directo:** [https://lonetsolutions.com/demo/](https://lonetsolutions.com/demo/)
+- **Acceso Inmediato en 1 Clic con 4 Roles Preconfigurados:**
+  - 👑 **Super Admin (`superadmin@nieto.edu.co`):** Control maestro, gestión total de noticias y usuarios, generador directo de contraseñas de docentes, interruptor de Modo Pánico y auditoría histórica completa.
+  - 🛡️ **Administrador (`rectoria@nieto.edu.co`):** Gestión editorial, aprobación de publicaciones de estudiantes, gestión de autores y auditoría institucional.
+  - ✍️ **Docente Autor (`docente@nieto.edu.co`):** Redacción, edición y publicación directa de comunicados con galerías fotográficas múltiples y videos de YouTube.
+  - 🎓 **Estudiante Autor (`estudiante@nieto.edu.co`):** Redacción colaborativa escolar en estado de borrador para revisión pedagógica previa.
+- **Entorno Sandbox Aislado y Ultrarrápido:** Funciona en el almacenamiento local del navegador (`localStorage`), permitiendo crear, editar, publicar y borrar artículos, activar el Modo Pánico y auditar eventos en tiempo real sin riesgo para los datos de producción. Incluye botón para **Restablecer Datos Demo** en cualquier momento.
+
+### 2. 📰 Hemeroteca Pública Institucional en Producción Real
+- **Enlace Directo:** [https://juanjosenietocartagena.edu.co/noticias.html](https://juanjosenietocartagena.edu.co/noticias.html)
+- Prueba en vivo el buscador predictivo en tiempo real, selector de categorías por filtros interactivos, cintillo dinámico de última hora (*Breaking News*) y lector modal con galería fotográfica y visor de video.
+
+### 3. 🔐 Acceso al Panel Editorial Institucional Real
+- **Enlace Directo:** [https://juanjosenietocartagena.edu.co/admin/](https://juanjosenietocartagena.edu.co/admin/)
+- Observa la pantalla oficial de autenticación con blindaje criptográfico PBKDF2 y diseño adaptado con centrado dinámico en teléfonos y tablets.
+
+### 🌐 Sección Showcase en el Sitio Web Corporativo
+- Visita la sección dedicada de proyectos en: [https://lonetsolutions.com/#showcase](https://lonetsolutions.com/#showcase)
 
 ---
 
