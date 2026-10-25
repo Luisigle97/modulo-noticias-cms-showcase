@@ -107,25 +107,6 @@ modulo-noticias-cms/
 └── noticias.html               # Hemeroteca pública institucional
 ```
 
----
-
-## 🚀 Inicio Rápido en Desarrollo Local
-
-### Requisitos
-- **Node.js** v16.0.0 o superior instalado en el equipo.
-
-### Ejecución
-1. Abre una terminal en la carpeta del proyecto:
-   ```bash
-   npm start
-   ```
-   *(O si prefieres depuración con auto-recarga: `npm run dev`)*
-2. Accede en el navegador a:
-   - **Portal Público:** [http://localhost:3000/](http://localhost:3000/)
-   - **Panel Administrativo:** [http://localhost:3000/admin/](http://localhost:3000/admin/)
-
----
-
 ## 🔐 Credenciales Iniciales de Acceso
 
 | Rol | Correo Electrónico | Contraseña | Capacidades |
